@@ -1,5 +1,5 @@
 import React from "react";
-import {  Router as Route, Switch } from "react-router-dom";
+import {  BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Books from "./pages/Books";
 import Detail from "./pages/Detail";
 import NoMatch from "./pages/NoMatch";
